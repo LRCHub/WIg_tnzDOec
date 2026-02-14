@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ヰタ・フィロソフィカ",
+  "base_artist": "伊東歌詞太郎",
+  "createdAt": "2026-02-14T16:01:53.303358Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヰタ・フィロソフィカ",
+      "artist": "伊東歌詞太郎",
+      "has_synced": true,
+      "path": "select/01_ヰタ・フィロソフィカ_伊東歌詞太郎.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヰタ・フィロソフィカ",
+      "artist": "Kashitaro Ito",
+      "has_synced": false,
+      "path": "select/02_ヰタ・フィロソフィカ_Kashitaro_Ito.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヰタ・フィロソフィカ",
+      "artist": "伊東歌詞太郎",
+      "has_synced": false,
+      "path": "select/pl_01_ヰタ・フィロソフィカ_伊東歌詞太郎.txt"
+    }
+  ]
+}
